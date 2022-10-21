@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github-account-info-react-app/static/css/main.bebfd244.css",
+    "main.js": "/github-account-info-react-app/static/js/main.92101732.js",
+    "index.html": "/github-account-info-react-app/index.html",
+    "main.bebfd244.css.map": "/github-account-info-react-app/static/css/main.bebfd244.css.map",
+    "main.92101732.js.map": "/github-account-info-react-app/static/js/main.92101732.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bebfd244.css",
+    "static/js/main.92101732.js"
+  ]
+}
